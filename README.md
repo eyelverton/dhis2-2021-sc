@@ -1,4 +1,4 @@
-# About this repository
+# Introduction
 This repository contains demo code for [DataKind's](https://www.datakind.org/) 2021 [DHIS2 conference](https://dhis2.org/academy/annual-conference/) presentation "A machine learning approach to deriving insights from DHIS2 data for program evaluation of healthcare interventions". More detailed instructions to come soon!
 
 # Acknowledgements 
